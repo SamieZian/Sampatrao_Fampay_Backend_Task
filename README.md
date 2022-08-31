@@ -14,4 +14,4 @@ Steps are :
 5) "python manage.py runserver"
 
 6) Open new terminal(2nd ) run "python manage.py runcrons"
-7) Quit terminal(1st) Re-Run "python manage.py runserver"
+7) Quit terminal(1st) & then Re-Run "python manage.py runserver"
